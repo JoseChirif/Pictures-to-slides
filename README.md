@@ -19,11 +19,23 @@ Easily insert all images from a folder into PowerPoint slides with pre-set forma
 <br>
 
 # Table of contents
+- [Video instructions](#%EF%B8%8F-video-instructions)
 - [Setup](#%EF%B8%8F-setup)
 - [Instructions](#-instructions)
 - [Documentation and colaboration](#%EF%B8%8F-documentation-and-collaboration)
 - [Thanks](#thanks-)
 - [Author](#%EF%B8%8F-author)
+<br><br>
+
+
+# ▶️ Video instructions
+
+Check the instruction guide on YouTube 🎬:
+- **[English](https://youtu.be/fTE2EfRAfTg?si=bnRbCFJ0ntkQu9C5&t=16)**.
+- **[Español](https://youtu.be/3NZgiZd9smI?si=KF_a75XKvC1Arf31&t=19)**. 
+
+<br>
+It covers the **📑 execution**, which can be found below in this README.
 <br><br>
 
 
@@ -230,6 +242,7 @@ The [Wiki](https://github.com/JoseChirif/Pictures-to-slides/wiki) contains every
 
 ✨ Thank you for checking out this project! If you found it useful, feel free to leave a ⭐ on the repository.
 
+<br>
 
 # ✍️ Author
 [@Jose Chirif](https://github.com/JoseChirif)
@@ -238,9 +251,17 @@ The [Wiki](https://github.com/JoseChirif/Pictures-to-slides/wiki) contains every
 I'm an Industrial Engineer specialized in process optimization, business intelligence and data science.
 [Porfolio - Network - Contact](https://linktr.ee/jchirif)
 
+<br>
 
+### ❤️ Support me
+If you enjoy my work and want to support me, feel free to donate through the links below. Your support means a lot!
 
-
-
-
-
+<p align="center">
+    <a href="https://buymeacoffee.com/Jchirif" target="_blank">
+        <img alt="Buy Me a Tea" src="https://img.shields.io/badge/Buy%20Me%20a%20Tea-☕-586DE0?style=for-the-badge&labelColor=586DE0">
+    </a>
+    &nbsp;    &nbsp;  &nbsp;  
+    <a href="https://paypal.me/JChirif" target="_blank">
+        <img alt="Paypal" src="https://img.shields.io/badge/Donate%20via%20PayPal-❤️-FF9900?style=for-the-badge&logo=paypal&labelColor=FF9900">
+    </a>
+</p>
